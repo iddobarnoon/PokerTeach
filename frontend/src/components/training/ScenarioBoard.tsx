@@ -1,0 +1,1 @@
+// Scenario board component for training 
